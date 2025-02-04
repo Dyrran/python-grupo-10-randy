@@ -1,0 +1,5 @@
+Hello, este es un archivo.
+Tiene varias lineas de texto
+Puedes escribir lo que sea
+Cuanto quieras.
+Adios, mundo
