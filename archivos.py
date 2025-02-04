@@ -32,7 +32,7 @@ archivo.close() # No olvidar cerrar el archivo
 
 # Manejo de excepciones
 try:
-    with open("archivo_inexistente.txt", "r")
+    with open("archivo_inexistente.txt", "r"):
         contenido = archivo.read()
         print()
 except FileNotFoundError:
