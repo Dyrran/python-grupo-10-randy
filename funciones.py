@@ -24,3 +24,4 @@ def factorial_recursivo(n):
         return n * factorial_recursivo(n - 1)
     
 print(factorial_recursivo(5))
+print(factorial_iterativo(5))
